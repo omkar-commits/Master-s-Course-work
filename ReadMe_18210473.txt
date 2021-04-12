@@ -1,0 +1,36 @@
+1.The folder named Assignment_18210473 contains all files such as database files, result, plots,
+    source code for each test carried out.
+Report is attached in the Zip folder along with main folder named Assignment_18210473 containing analysis and results.
+
+2.The folder Assignment_18210473 is split into 3 sub folders for each question
+
+ i.e. for Question A the path is Assignment_18210473/Question_A
+       for Question B the path is Assignment_18210473/Question_B
+         for Question C the path is Assignment_18210473/Question_C
+
+3. For Question A first part all files are stored in Folder Question_A_1 and
+    it's path is Assignment_18210473/Question_A/Question_A_1
+
+4. For Question A Second part all files are stored in Folder Question_A_2 and
+    it's path is Assignment_18210473/Question_A/Question_A_2
+
+5. For Question B all files are stored in Folder Question_B and
+    it's path is Assignment_18210473/Question_B
+
+6.For Question C the folder Question_C is further split into 2 sub-folders Question_C_1 and Question_C_2
+   i.e. for Question C first part the path is Assignment_18210473/Question_C/Question_C_1
+	for Question C second part the path is Assignment_18210473/Question_C/Question_C_2
+
+7. For first part of Question C the folder Question_C_1 is split into 2 parts to demonstrate the effect of 1 user in folder 1user and for 2 users in folder 2user.
+	i.e. for Question C first part for user1 the path is Assignment_18210473/Question_C/Question_C_1/1 user
+		for Question C first part  forr 2 users the path is Assignment_18210473/Question_C/Question_C_1/2user
+
+8. For Second part of Question C the folder Question_C_2 is split into 4 parts to demonstrate the effect of 1 user in folder 1 user_Scenario,
+ for 5 users in folder 5 user_Scenario, for 10 users in folder 10 user_Scenario, for 15 users in folder 15 user_Scenario
+
+	i.e. for Question C second part for user1 the path is Assignment_18210473/Question_C/Question_C_2/1 user_Scenario
+	for Question C second part  for 5 users the path is Assignment_18210473/Question_C/Question_C_2/5 user_Scenario
+	for Question C second part  for 10 users the path is Assignment_18210473/Question_C/Question_C_2/10 user_Scenario
+	for Question C second part  for 15 users the path is Assignment_18210473/Question_C/Question_C_2/15 user_Scenario
+
+9. All the examples are tested and executed as mentioned in above paths. All subfolders contains source code, plots and results, database files and .data files.
