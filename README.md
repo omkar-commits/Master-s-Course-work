@@ -1,4 +1,4 @@
-# Master's-Course-work and Paper's Published.
+# Master's-Course-work and Papers Published.
 Modules covered form Master's course in this respository: 1. Real Time Digital Signal Processing, 2. Fundamentals of device manufacturing 3. Network Performance.
 
 Paper Published can be accessed through google scholar profile: https://scholar.google.com/citations?user=URIxk-kAAAAJ&hl=en
